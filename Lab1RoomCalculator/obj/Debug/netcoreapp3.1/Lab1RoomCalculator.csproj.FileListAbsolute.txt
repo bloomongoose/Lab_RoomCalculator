@@ -1,0 +1,14 @@
+C:\Users\radee\source\repos\Lab1RoomCalculator\Lab1RoomCalculator\bin\Debug\netcoreapp3.1\Lab1RoomCalculator.exe
+C:\Users\radee\source\repos\Lab1RoomCalculator\Lab1RoomCalculator\bin\Debug\netcoreapp3.1\Lab1RoomCalculator.deps.json
+C:\Users\radee\source\repos\Lab1RoomCalculator\Lab1RoomCalculator\bin\Debug\netcoreapp3.1\Lab1RoomCalculator.runtimeconfig.json
+C:\Users\radee\source\repos\Lab1RoomCalculator\Lab1RoomCalculator\bin\Debug\netcoreapp3.1\Lab1RoomCalculator.runtimeconfig.dev.json
+C:\Users\radee\source\repos\Lab1RoomCalculator\Lab1RoomCalculator\bin\Debug\netcoreapp3.1\Lab1RoomCalculator.dll
+C:\Users\radee\source\repos\Lab1RoomCalculator\Lab1RoomCalculator\bin\Debug\netcoreapp3.1\Lab1RoomCalculator.pdb
+C:\Users\radee\source\repos\Lab1RoomCalculator\Lab1RoomCalculator\obj\Debug\netcoreapp3.1\Lab1RoomCalculator.csproj.AssemblyReference.cache
+C:\Users\radee\source\repos\Lab1RoomCalculator\Lab1RoomCalculator\obj\Debug\netcoreapp3.1\Lab1RoomCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radee\source\repos\Lab1RoomCalculator\Lab1RoomCalculator\obj\Debug\netcoreapp3.1\Lab1RoomCalculator.AssemblyInfoInputs.cache
+C:\Users\radee\source\repos\Lab1RoomCalculator\Lab1RoomCalculator\obj\Debug\netcoreapp3.1\Lab1RoomCalculator.AssemblyInfo.cs
+C:\Users\radee\source\repos\Lab1RoomCalculator\Lab1RoomCalculator\obj\Debug\netcoreapp3.1\Lab1RoomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\radee\source\repos\Lab1RoomCalculator\Lab1RoomCalculator\obj\Debug\netcoreapp3.1\Lab1RoomCalculator.dll
+C:\Users\radee\source\repos\Lab1RoomCalculator\Lab1RoomCalculator\obj\Debug\netcoreapp3.1\Lab1RoomCalculator.pdb
+C:\Users\radee\source\repos\Lab1RoomCalculator\Lab1RoomCalculator\obj\Debug\netcoreapp3.1\Lab1RoomCalculator.genruntimeconfig.cache
